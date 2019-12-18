@@ -4,11 +4,11 @@
 -- Huge thanks to these two as I would not be able to make this without Koil and pogoS's IPL work.
 
 
---Green House Valentine
+------------------------------------- Green House Valentine
 RequestImap(903666582)  
 -- #### END Green House ####
 
---Central Union Train Mission
+------------------------------------- Central Union Train Mission
 RequestImap(2077623691) -- Track Bed - Full Legnth
 RequestImap(-555736180) -- Crossing 1818
 RequestImap(-693812694) --Section 1 1875
@@ -25,18 +25,17 @@ RequestImap(-142900294) --Section 9 2229.82
 --RequestImap(-1386614896) --Section 2 at 2070
 --#### END Central Union Train Mission #### 
 
--- Heartland Oil Station
+------------------------------------- Heartland Oil Station
 RequestImap(-84516711)  --Run Down Closed Station
 RequestImap(-657241692)  --Oil Pipe
 RequestImap(-1112373128)  --Oil Tower
 --#### Heartland Oil Station
 
--- Hole Near Rhodes - Woman's Rights Mission Start
+------------------------------------- Hole Near Rhodes - Woman's Rights Mission Start
 RequestImap(1277540472)  -- 1433 -1591 69
 --#### Rhodes
 
--- Story Camp Near Rhodes
-
+------------------------------------- Story Camp Near Rhodes
 -- GRASS and GROUND
 --RequestImap(-1496619689) -- Green Ground 670 -1236 44
 RequestImap(-61896664) -- Worn Brown Ground 670 -1236 44
@@ -44,7 +43,9 @@ RequestImap(-61896664) -- Worn Brown Ground 670 -1236 44
 RequestImap(1534006738) -- Version 2 of Grass and Ferns
 RequestImap(-376056363) -- Version 3 of Grass and Ferns
 RequestImap(519091847)  -- Version 4 of Grass and Ferns
-RequestImap(-1225606266) -- Adds bush to 692 -1263 44]]
+RequestImap(-1225606266) -- Adds bush to 692 -1263 44
+RequestImap(-1874720370) -- Lots of ferns, weeds and tall grass
+RequestImap(-1936937394) -- Grass, Flowers and weeds]]
 
 -- German Guys Wagon
 --RequestImap(-1123811713) -- Wagon v1  657 -1231 44
@@ -209,19 +210,22 @@ RequestImap(-436009554) -- Piece of Paper near Banjo
 RequestImap(1997423854) -- Map near Paper
 RequestImap(157361403) -- Large Dream Catcher
 RequestImap(-814821283) -- Fishing Stuff
+------------------------------------- #### END OF RHODES STORY CAMP ####
 
---Bandit Camp
+------------------------------------- Rhodes Camp
 --RequestImap(-159557995) -- Two Tents, Wagon, Chairs
---#### END OF RHODES STORY CAMP ####
+------------------------------------- #### END OF RHODES CAMP ####
 
--- Boat and Supplies Near Rhodes Camp
+------------------------------------- Boat and Supplies Near Rhodes Camp
 RequestImap(1733394134) -- Boat and Supplies 807 -1235 41
---#### END OF RHODES BOAT ####
+------------------------------------- #### END OF RHODES BOAT ####
 
--- Rhodes Camp
+------------------------------------- Rhodes Camp
 RequestImap(1313890873) -- Small Camp in the Woods Just North of Dutch's Rhodes Base
---#### END OF RHODES CAMP ####
-]]
+------------------------------------- #### END OF RHODES CAMP ####
+
+
+
 
 
 --[[RequestImap(1891601353) --Central Union Train Mission Working Line  *** UNKNOWN ***
@@ -2185,19 +2189,9 @@ RequestImap(980234126)]]
 --[[RequestImap(1891284833)
 RequestImap(1576931820)
 RequestImap(-1296418825)
-RequestImap(-1936937394)]]
-
---ground
-
-
---RequestImap(-1874720370)
---RequestImap(2035942164)
-
---RequestImap(1764814553)
-
-
-
---[[RequestImap(748826019)
+RequestImap(2035942164)
+RequestImap(1764814553)
+RequestImap(748826019)
 RequestImap(-1892843345)
 RequestImap(146746575)
 RequestImap(-2144587490)
