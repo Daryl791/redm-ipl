@@ -3,6 +3,8 @@ Changes
 Update 3 - 18 Dec 19
 Added 2 more IPLs to Dutch's Rhodes Camp
 Braithwaite Mansion
+Rhodes Cemetary
+Missing Fields and Barn on Greys Estate
 
 Update 2 - 17 Dec 19
 Dutch's Rhodes Camp
