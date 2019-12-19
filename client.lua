@@ -249,3 +249,16 @@ RequestImap(-2137633069)  -- Shudders Close Upstairs Bedroom and Downstairs Libr
 RequestImap(-880373663)  -- Front Balcony Lantern Added
 RequestImap(-70021332)  -- Adds Working tools and supplies to upper balcony
 ------------------------------------- #### END OF BRAITHWAITE MANSION ####
+
+------------------------------------- Grey Estates
+RequestImap(-677977650) -- Normal Barn Frame
+RequestImap(702350293) -- Barn Interior
+--RequestImap(419559004) -- Burnt Barn Frame 1
+RequestImap(1426715569) -- Adds Field Props
+--RequestImap(1284656212) -- Burning Structure
+--RequestImap(-1162161651) -- Fields on fire
+--RequestImap(557212279) -- Burnt Plants
+-- RequestImap(1786931635) -- Burnt out fields
+RequestImap(26815048) -- Normal Fields
+RequestImap(-1229109520) -- Green Plants
+------------------------------------- #### END OF GREY ESTATES ####
