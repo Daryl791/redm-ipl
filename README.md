@@ -1,4 +1,4 @@
-# scrpww-ipl
+# redm-ipl
 
 Just drop into your resources and add to your server.cfg
 
