@@ -8,6 +8,9 @@
 RequestImap(903666582)  
 ------------------------------------- #### END Green House ####
 
+------------------------------------- Railroad Stuff
+--RequestImap(-794503195) -- Broken Bridge and Pieces Pieces  -- 520 1754 187
+
 ------------------------------------- Central Union Train Mission
 RequestImap(2077623691) -- Track Bed - Full Legnth
 RequestImap(-555736180) -- Crossing 1818
@@ -23,7 +26,7 @@ RequestImap(-142900294) --Section 9 2229.82
 
 --Double Union Train Map Sections
 --RequestImap(-1386614896) --Section 2 at 2070
-------------------------------------- #### END Central Union Train Mission #### 
+------------------------------------- #### END OF RAILWAY STUFF ####
 
 ------------------------------------- Heartland Oil Station
 RequestImap(-84516711)  --Run Down Closed Station
@@ -272,3 +275,17 @@ RequestImap(-5339556)  --Bank Under Construction
 --RequestImap(1470738186) -- Adds Pre-Construcion Ground (Ground does not mesh well with contrustion IPLs)
 --RequestImap(-1632348233) -- Adds Trees and Grass (DO NOT USE WITH CONSTRUCTION IPL, WILL MERGE VISUALS)
 ------------------------------------- #### END OF BLACKWATER TOWN HALL ####
+
+------------------------------------- First Camp - Winter Area -1346 2407 311
+--RequestImap(867231253)  -- Ground Spring Melt
+--RequestImap(1248111234) -- Ground Early Spring Melt 
+--RequestImap(474287981) -- Ground Standard Winter 
+RequestImap(-1331012521) -- Ground After Snowfall Winter 
+--RequestImap(-2119625926) -- Barrels and Crates
+--RequestImap(1113693078) -- Snow on Two Crates
+RequestImap(-8749224) -- Torches Boxes and Crates (DO NOT USE SNOW ON CRATES WITH THIS)
+RequestImap(-1991237877) -- Boxes
+RequestImap(-1670453688) -- Broken Wagons
+RequestImap(-743781837) -- Fire in Pit
+RequestImap(2114706334) -- Fire Pit
+------------------------------------- #### END OF FIRST CAMP ####
