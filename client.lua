@@ -262,3 +262,13 @@ RequestImap(1426715569) -- Adds Field Props
 RequestImap(26815048) -- Normal Fields
 RequestImap(-1229109520) -- Green Plants
 ------------------------------------- #### END OF GREY ESTATES ####
+
+------------------------------------- Black Water Town Hall
+RequestImap(-2082201137)  --Blackwater Ground Town Hall
+RequestImap(1343343014)  --Black Water Town Hall Addons Construction
+RequestImap(739412171)  -- Two Boards in front of city hall (Goes with Town Hall Construction)
+RequestImap(-5339556)  --Bank Under Construction
+--RequestImap(1173561253) -- Tents Beside City Hall Near Trech
+--RequestImap(1470738186) -- Adds Pre-Construcion Ground (Ground does not mesh well with contrustion IPLs)
+--RequestImap(-1632348233) -- Adds Trees and Grass (DO NOT USE WITH CONSTRUCTION IPL, WILL MERGE VISUALS)
+------------------------------------- #### END OF BLACKWATER TOWN HALL ####
