@@ -283,9 +283,36 @@ RequestImap(-5339556)  --Bank Under Construction
 RequestImap(-1331012521) -- Ground After Snowfall Winter 
 --RequestImap(-2119625926) -- Barrels and Crates
 --RequestImap(1113693078) -- Snow on Two Crates
-RequestImap(-8749224) -- Torches Boxes and Crates (DO NOT USE SNOW ON CRATES WITH THIS)
+--RequestImap(660686456) -- Crates for use with Snow Cover Crates (FOR USE WITH Snow on Crates)
+--RequestImap(-8749224) -- Torches Boxes and Crates (DO NOT USE SNOW ON CRATES WITH THIS)
 RequestImap(-1991237877) -- Boxes
 RequestImap(-1670453688) -- Broken Wagons
 RequestImap(-743781837) -- Fire in Pit
 RequestImap(2114706334) -- Fire Pit
+RequestImap(-1306375743) -- Forge Fire
 ------------------------------------- #### END OF FIRST CAMP ####
+
+------------------------------------- Farm House near Mining Town - -559 2686 319
+RequestImap(-338553155) -- Exterior House
+RequestImap(-1636879249) -- Normal Looking Interior
+--RequestImap(-323126593) -- Burned Out Interior
+--RequestImap(-889869458)  -- Debris
+--RequestImap(1590561203)  -- Flames
+RequestImap(-1106668087) -- Adds Wagon Wheel near Front Door
+RequestImap(2028590076) -- Cash Box Interior
+------------------------------------- #### END OF FARM HOUSE ####
+
+------------------------------------- Strawberry
+--RequestImap(-134556459) -- Doctors House Locked Door (No Interior) -1799 -428 158
+--RequestImap(131323483)  -- Doctors House Interior and Unlocked Front Door
+--RequestImap(270920361) -- Crates on Doctors Porch 
+
+--RequestImap(1892122519)-- Locked Door Micahs Gun House (No Interior) -1773 -431 154
+--RequestImap(-130638369) -- Micahs Gun House Interior with Unlocked Front Door (Upstairs does not work, other doors are locked)
+
+--RequestImap(2137790641) -- Jail Cell Window Fixed
+--RequestImap(1934919499) -- Jail Cell Window Fixed
+--RequestImap(-515396642) -- Jail Cell Window Fixed
+--RequestImap(993595204) -- Window Debris
+--RequestImap(1291083725) -- Window Debris
+------------------------------------- #### END OF STRAWBERRY ####

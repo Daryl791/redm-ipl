@@ -1,5 +1,12 @@
 Changes
 
+Update 5 - 26 Dec 19
+Added Forge to Mining Camp
+Added More Crates to Mining Camp
+Added Strawberry Jail Window
+Added Strawberry Doctor
+Added Strawberry Micah Gun House
+
 Update 4 - 19 Dec 19
 Blackwater Townhall Area
 Broken Train Brigde
