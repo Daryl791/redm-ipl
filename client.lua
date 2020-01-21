@@ -1,15 +1,61 @@
 -- IPL Edits
 -- Southern California Wild West Roleplay 
 -- Created but Barren 791
--- Huge thanks to these two as I would not be able to make this without Koil and pogoS's IPL work.
+-- Huge thanks to these two as I would not be able to make this without Koil, MissBehavin and pogoS's IPL work.
 
+-- Use RemoveImap(#########) to remove a requested IPL from world, some IPLs are preloaded by default.  I will mark then with ***
 
-------------------------------------- Green House Valentine
-RequestImap(903666582)  
+------------------------------------- Valentine
+RequestImap(903666582)  -- Green Hotel by Doctors  -294 798 118
+--RequestImap(282485265) -- Green Hotel Borard up - load with Completed Version
+--RequestImap(1081087978) -- Green Hotel Under Contruction
+--RequestImap(824748066) -- Event Marker -229 946 138
+--RequestImap(774477221)   -- Crumbles Back Wall of Sheriffs Building 
+RequestImap(-1158072415) -- Adds Saloon Signs and Posts
+--RequestImap(192173299) -- Broken Saloon Porch Beams and Sign
+--RequestImap(2095116685) --Crates in Front of Saloon
+--RequestImap(731209239) -- Train Station Fast Travel Post -187 645 113
+--RequestImap(637874199) -- Adds both a good and shot up wall lamp on Green Hotel
+--RequestImap(2040843256) -- Construction Items for Green Hotel and Booze Loading for Saloon
+--RequestImap(999248445) -- Yellow Wagon Outside Saloon with Blue Tar Barrels
+--RequestImap(-713587740) -- Empty Yellow Wagon with Tar Barrels Unloaded outside Saloon and Cart Outside Green Hotel
+--RequestImap(-1217078386) -- Story Shoot out setting through Main Street
+--RequestImap(-1579403437) -- Wagon Outside Bank
+--RequestImap(517553365) -- Wagon in Front with 3 carts and boxes, and 1 Wagon Outback of House -254 759 117
+--RequestImap(805009584) -- Street Barricades Outside Bathhouse
+--RequestImap(-560409108) -- Street Barricades Outside Jail
+--RequestImap(-518785376) -- Street Barricades Outside Train Station
+--RequestImap(-1301569116) -- Jail Boarded Up
+--RequestImap(-52140817) -- Law Office Boarded Up
+--RequestImap(-780819048)  -- Hotel Boarded Up
+--RequestImap(-1989899190) -- Bank Boarded Up
+--RequestImap(-981203673)  -- Doctors Office Boarded Up
+--RequestImap(-776975047)  -- Saloon Front Doors locked
+--RequestImap(1385025009)  -- Saloon Closed Sign
+--RequestImap(199047531)   -- Saloon Windows Boarded and Weapon Damage
+--RequestImap(406334892) -- General Store Closed and Shot Up
+--RemoveImap(1228600352) -- General Store Boarded Up
+RequestImap(924412185) -- Law Office Porch Supports and Name
+--RequestImap(-156313117) -- Law Office Shot Up Porch
+--RequestImap(-1905652203) -- Worn Gunsmith Porch Supports
+--RequestImap(1202020135) -- Blank Street Banners
+RequestImap(-1933617196) -- Gunsmith Good Porch Supports
+RequestImap(-1588793465) -- Saints Hotel Porch Supports
+
+--Cemetary 
+--RequestImap(-391187090) -- Grass Grave 3
+--RequestImap(1963724330) -- Grass Grave 1-3
+RequestImap(1886602884) -- Grave 4 - Grave not Dug
+RequestImap(-1902184438) -- Dirt Pile Grave 1
+RequestImap(1236921921) -- Dirt Pile Grave 2
+RequestImap(740012805) -- Dirt Pile Gave 3
+RequestImap(-1871745961) -- Coffin in Grave 1
+RequestImap(2125514970) -- Coffin in Grave 2
+RequestImap(267578156) -- Coffin in Grave 3
 ------------------------------------- #### END Green House ####
 
 ------------------------------------- Railroad Stuff
---RequestImap(-794503195) -- Broken Bridge and Pieces Pieces  -- 520 1754 187
+--RequestImap(-794503195) -- Broken Bridge and Pieces  -- 520 1754 187
 
 ------------------------------------- Central Union Train Mission
 RequestImap(2077623691) -- Track Bed - Full Legnth
@@ -276,7 +322,7 @@ RequestImap(-5339556)  --Bank Under Construction
 --RequestImap(-1632348233) -- Adds Trees and Grass (DO NOT USE WITH CONSTRUCTION IPL, WILL MERGE VISUALS)
 ------------------------------------- #### END OF BLACKWATER TOWN HALL ####
 
-------------------------------------- First Camp - Winter Area -1346 2407 311
+------------------------------------- First Camp - Mining Town Winter Area -1346 2407 311
 --RequestImap(867231253)  -- Ground Spring Melt
 --RequestImap(1248111234) -- Ground Early Spring Melt 
 --RequestImap(474287981) -- Ground Standard Winter 
@@ -304,13 +350,13 @@ RequestImap(2028590076) -- Cash Box Interior
 
 ------------------------------------- Strawberry
 --RequestImap(-134556459) -- Doctors House Locked Door (No Interior) -1799 -428 158
---RequestImap(131323483)  -- Doctors House Interior and Unlocked Front Door
---RequestImap(270920361) -- Crates on Doctors Porch 
+RequestImap(131323483)  -- Doctors House Interior and Unlocked Front Door
+RequestImap(270920361) -- Crates on Doctors Porch 
 
---RequestImap(1892122519)-- Locked Door Micahs Gun House (No Interior) -1773 -431 154
+RequestImap(1892122519)-- Locked Door Micahs Gun House (No Interior) -1773 -431 154
 --RequestImap(-130638369) -- Micahs Gun House Interior with Unlocked Front Door (Upstairs does not work, other doors are locked)
 
---RequestImap(2137790641) -- Jail Cell Window Fixed
+RequestImap(2137790641) -- Jail Cell Window Fixed
 --RequestImap(1934919499) -- Jail Cell Window Fixed
 --RequestImap(-515396642) -- Jail Cell Window Fixed
 --RequestImap(993595204) -- Window Debris
