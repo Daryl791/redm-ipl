@@ -1,5 +1,8 @@
 # redm-ipl
 
+DISCONTINUED - FINAL UPDATE 6
+I have stopped working on a public release version of this, due to the fact a members of the community has decided to use my time to pass off as their own work.
+
 Just drop into your resources and add to your server.cfg
 
 Thanks goes out to Koil and pogoS finding the ipl hashes.  Without them, I would not have been able to make this. I was not even worried about looking for them.
